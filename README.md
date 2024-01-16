@@ -1,5 +1,9 @@
 Iniciando com Create React App
 Scripts Disponíveis
+
+Ênfase que para funcionar corretamente irá precisar da extensão  Moesif Origin & CORS Changer segue o link:
+https://chromewebstore.google.com/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc
+
 No diretório do projeto, você pode executar:
 
 ### `npm start`
